@@ -1,6 +1,6 @@
 1,две,два,NUM,_,Case=Nom|Gender=Fem,_,_,_,@yad1986m-words#@yad1986m#2311.34#2311.586
 2,тысячи,тысяча,NUM,_,Case=Gen|Gender=Fem|Number=Sing,_,_,_,@yad1986m-words#@yad1986m#2311.586#2311.832
-3,тринадцатый,тринадцатый,NUM,_,Case=Nom|DGender=Masc|Number=Sing,_,_,_,@yad1986m-words#@yad1986m#2311.832#2312.078
+3,тринадцатый,тринадцатый,NUM,_,Case=Nom|Gender=Masc|Number=Sing,_,_,_,@yad1986m-words#@yad1986m#2311.832#2312.078
 4,год,год,NOUN,_,Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing,_,_,_,@yad1986m-words#@yad1986m#2312.078#2312.324
 5,/,/,PUNCT,_,_,_,_,_,@yad1986m-words#@yad1986m#2312.324#2312.57
 6,мм,ммм,INTJ,_,_,_,_,_,@yad1986m-words#@yad1986m#2312.57#2312.816
